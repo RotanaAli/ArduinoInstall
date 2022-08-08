@@ -13,12 +13,16 @@ https://www.arduino.cc/en/software
 Then, go to downloads the Linux option thats the same as the one that was created for the Virtual Machine,
 I choose Linux 64 bits since it's the same as my Virtual Machine.
 
+{picture 1}
+
 Step #3 : Once the download is complete go to 'Downloads' in files and click on 'Extract Here',
 once the file is extracted drag and drop the flie in 'Home'
 
+{picture 2 and 3}
+
 Step 4 :  Click on 'install' that's inside the file copy the last command, then open the terminal,
 
-/home/u/Pictures/Screenshots/Screenshot from 2022-08-08 21-03-01.png
+{picture 4 and 5}
 
 write :
 
