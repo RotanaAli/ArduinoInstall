@@ -20,15 +20,13 @@ once the file is extracted drag and drop the flie in 'Home'
 
 {picture 2 and 3}
 
-Step 4 :  Click on 'install' that's inside the file copy the last command, then open the terminal,
+Step 4 :  Click on 'install' that's inside the file, then open the terminal,
 
 {picture 4 and 5}
 
 write :
 
-$ sudo 
-
-[paste the command] ./install.sh
+$ sudo ./install.sh
 
 [enter password]
 
