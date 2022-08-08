@@ -16,14 +16,15 @@ I choose Linux 64 bits since it's the same as my Virtual Machine.
 Step #3 : Once the download is complete go to 'Downloads' in files and click on 'Extract Here',
 once the file is extracted drag and drop the flie in 'Home'
 
-Step 4 :  Click on 'install' that's inside the file, then open the terminal
-write as follows:
+Step 4 :  Click on 'install' that's inside the file copy the last command, then open the terminal,
 
-$ cd arduino
+/home/u/Pictures/Screenshots/Screenshot from 2022-08-08 21-03-01.png
 
-$ ls
+write :
 
-$ sudo ./install.sh
+$ sudo 
+
+[paste the command] ./install.sh
 
 [enter password]
 
